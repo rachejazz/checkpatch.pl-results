@@ -1,0 +1,11 @@
+./scripts/checkpatch.pl --show-types --codespell --fix 0001-tracing-Check-length-before-giving-out-the-filter-bu.patch
+WARNING:COMMIT_LOG_LONG_LINE: Possible unwrapped commit description (prefer a maximum 75 chars per line)
+#13: 
+when using this page. If an event asks for more than a page size while being
+
+total: 0 errors, 1 warnings, 8 lines checked
+
+0001-tracing-Check-length-before-giving-out-the-filter-bu.patch has style problems, please review.
+
+NOTE: If any of the errors are false positives, please report
+      them to the maintainer, see CHECKPATCH in MAINTAINERS.

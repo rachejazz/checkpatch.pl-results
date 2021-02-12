@@ -1,0 +1,19 @@
+./scripts/checkpatch.pl --show-types --codespell --fix 0001-io_uring-don-t-acquire-uring_lock-twice.patch
+WARNING:UNSPECIFIED_INT: Prefer 'unsigned int' to bare use of 'unsigned'
+#40: FILE: fs/io_uring.c:6856:
++		unsigned nr_events = 0;
+
+total: 0 errors, 1 warnings, 30 lines checked
+
+Wrote EXPERIMENTAL --fix correction(s) to '0001-io_uring-don-t-acquire-uring_lock-twice.patch.EXPERIMENTAL-checkpatch-fixes'
+
+Do _NOT_ trust the results written to this file.
+Do _NOT_ submit these changes without inspecting them for correctness.
+
+This EXPERIMENTAL file is simply a convenience to help rewrite patches.
+No warranties, expressed or implied...
+
+0001-io_uring-don-t-acquire-uring_lock-twice.patch has style problems, please review.
+
+NOTE: If any of the errors are false positives, please report
+      them to the maintainer, see CHECKPATCH in MAINTAINERS.
