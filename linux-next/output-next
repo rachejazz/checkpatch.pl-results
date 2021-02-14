@@ -1,0 +1,52 @@
+------------------------------------------------------
+Commit 0a12f9dd9c0b ("scripts/gdb: fix list_for_each")
+------------------------------------------------------
+total: 0 errors, 0 warnings, 11 lines checked
+
+Commit 0a12f9dd9c0b ("scripts/gdb: fix list_for_each") has no obvious style problems and is ready for submission.
+-----------------------------------------------------
+Commit 561afcd94f09 ("ubsan: remove overflow checks")
+-----------------------------------------------------
+total: 0 errors, 0 warnings, 166 lines checked
+
+Commit 561afcd94f09 ("ubsan: remove overflow checks") has no obvious style problems and is ready for submission.
+----------------------------------------------------------------
+Commit d09f16d04cd8 ("initramfs: panic with memory information")
+----------------------------------------------------------------
+total: 0 errors, 0 warnings, 50 lines checked
+
+Commit d09f16d04cd8 ("initramfs: panic with memory information") has no obvious style problems and is ready for submission.
+-------------------------------------------------------------------
+Commit dda8fe227129 ("initramfs-panic-with-memory-information-fix")
+-------------------------------------------------------------------
+total: 0 errors, 0 warnings, 17 lines checked
+
+Commit dda8fe227129 ("initramfs-panic-with-memory-information-fix") has no obvious style problems and is ready for submission.
+---------------------------------------------------------------------
+Commit 25730252dd6f ("MIPS: make userspace mapping young by default")
+---------------------------------------------------------------------
+total: 0 errors, 0 warnings, 81 lines checked
+
+Commit 25730252dd6f ("MIPS: make userspace mapping young by default") has no obvious style problems and is ready for submission.
+------------------------------------------------------------------
+Commit 07f7e57c63aa ("Add linux-next specific files for 20210212")
+------------------------------------------------------------------
+[33mWARNING:[0m Missing commit description - Add an appropriate one
+
+[33mWARNING:[0m added, moved or deleted file(s), does MAINTAINERS need updating?
+#20: 
+new file mode 100644
+
+[31mERROR:[0m DOS line endings
+#712: FILE: Next/merge.log:6:
++Updating files:  69% (6634/9562)^MUpdating files:  70% (6694/9562)^MUpdating files:  71% (6790/9562)^MUpdating files:  72% (6885/9562)^MUpdating files:  73% (6981/9562)^MUpdating files:  74% (7076/9562)^MUpdating files:  75% (7172/9562)^MUpdating files:  76% (7268/9562)^MUpdating files:  77% (7363/9562)^MUpdating files:  78% (7459/9562)^MUpdating files:  79% (7554/9562)^MUpdating files:  80% (7650/9562)^MUpdating files:  81% (7746/9562)^MUpdating files:  82% (7841/9562)^MUpdating files:  83% (7937/9562)^MUpdating files:  84% (8033/9562)^MUpdating files:  85% (8128/9562)^MUpdating files:  86% (8224/9562)^MUpdating files:  87% (8319/9562)^MUpdating files:  88% (8415/9562)^MUpdating files:  89% (8511/9562)^MUpdating files:  90% (8606/9562)^MUpdating files:  91% (8702/9562)^MUpdating files:  92% (8798/9562)^MUpdating files:  93% (8893/9562)^MUpdating files:  94% (8989/9562)^MUpdating files:  95% (9084/9562)^MUpdating files:  96% (9180/9562)^MUpdating files:  97% (9276/9562)^MUpdating files:  98% (9371/9562)^MUpdating files:  99% (9467/9562)^MUpdating files: 100% (9562/9562)^MUpdating files: 100% (9562/9562), done.$
+
+total: 1 errors, 2 warnings, 15823 lines checked
+
+NOTE: For some of the reported defects, checkpatch may be able to
+      mechanically convert to the typical style using --fix or --fix-inplace.
+
+Commit 07f7e57c63aa ("Add linux-next specific files for 20210212") has style problems, please review.
+
+NOTE: If any of the errors are false positives, please report
+      them to the maintainer, see CHECKPATCH in MAINTAINERS.
