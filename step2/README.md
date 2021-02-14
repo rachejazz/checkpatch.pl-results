@@ -52,9 +52,11 @@ Next, I have written a small script that will feed all the above commits one at 
 ```
 
 My pc crashed :( 
-Printing the error/warning with the error/warning type could be hazardous. Lesson: use --terse to only show the error/warning only
-Also, with this another script to narrow down results to only the warnings/errors, discarding counts of warnings and errors
-And save it to a file named `stats1`
+Printing the error/warning with the error/warning type could be hazardous. 
+
+Lesson: use --terse to only show the error/warning.
+Also, with this another script to narrow down results to only the warnings/errors, discarding counts of warnings and errors.
+Save it to a file named `stats1`
 
 ```
 ./scripts/checkpatch.pl --show-types --terse -g `git log -7 --no-merges --pretty=reference | cut -f 1 -d " "` | cut -f 2 -d " " | tr -d [:digit:] > stats1
