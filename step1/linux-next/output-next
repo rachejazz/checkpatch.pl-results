@@ -31,13 +31,13 @@ Commit 25730252dd6f ("MIPS: make userspace mapping young by default") has no obv
 ------------------------------------------------------------------
 Commit 07f7e57c63aa ("Add linux-next specific files for 20210212")
 ------------------------------------------------------------------
-[33mWARNING:[0m Missing commit description - Add an appropriate one
+WARNING:COMMIT_MESSAGE: Missing commit description - Add an appropriate one
 
-[33mWARNING:[0m added, moved or deleted file(s), does MAINTAINERS need updating?
+WARNING:FILE_PATH_CHANGES: added, moved or deleted file(s), does MAINTAINERS need updating?
 #20: 
 new file mode 100644
 
-[31mERROR:[0m DOS line endings
+ERROR:DOS_LINE_ENDINGS: DOS line endings
 #712: FILE: Next/merge.log:6:
 +Updating files:  69% (6634/9562)^MUpdating files:  70% (6694/9562)^MUpdating files:  71% (6790/9562)^MUpdating files:  72% (6885/9562)^MUpdating files:  73% (6981/9562)^MUpdating files:  74% (7076/9562)^MUpdating files:  75% (7172/9562)^MUpdating files:  76% (7268/9562)^MUpdating files:  77% (7363/9562)^MUpdating files:  78% (7459/9562)^MUpdating files:  79% (7554/9562)^MUpdating files:  80% (7650/9562)^MUpdating files:  81% (7746/9562)^MUpdating files:  82% (7841/9562)^MUpdating files:  83% (7937/9562)^MUpdating files:  84% (8033/9562)^MUpdating files:  85% (8128/9562)^MUpdating files:  86% (8224/9562)^MUpdating files:  87% (8319/9562)^MUpdating files:  88% (8415/9562)^MUpdating files:  89% (8511/9562)^MUpdating files:  90% (8606/9562)^MUpdating files:  91% (8702/9562)^MUpdating files:  92% (8798/9562)^MUpdating files:  93% (8893/9562)^MUpdating files:  94% (8989/9562)^MUpdating files:  95% (9084/9562)^MUpdating files:  96% (9180/9562)^MUpdating files:  97% (9276/9562)^MUpdating files:  98% (9371/9562)^MUpdating files:  99% (9467/9562)^MUpdating files: 100% (9562/9562)^MUpdating files: 100% (9562/9562), done.$
 

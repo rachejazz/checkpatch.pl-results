@@ -11,5 +11,6 @@ d09f16d04cd8 (initramfs: panic with memory information, 2021-02-12)
 ```
 Following errors and warnings were seen on running script on linux-next tree
 ```
+./scripts/checkpatch.pl --show-types -g `git log -6 --no-merges --oneline | cut -f 1 -d " "` > output-next
 cat output-next
 ```
