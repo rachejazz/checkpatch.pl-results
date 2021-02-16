@@ -6,7 +6,6 @@ Tried a bit different this time. Now I got all the non-merged commits from versi
 ```
 git log --no-merges --pretty=reference v5.10..v5.11 > gitlog
 cat file | cut -f 1 -d " " > gitlog_hash
-rm gitlog
 ```
 
 Now we run the script on this file containing the hashes. And ONLY grep down the warnings to another file.
@@ -14,7 +13,6 @@ Now we run the script on this file containing the hashes. And ONLY grep down the
 ```
 ./scripts/checkpatch.pl --show-types --terse -g `cat gitlog_hash` > script_log
 cat script_log | grep "WARNING" > script_warn
-rm script_log
 ```
 
 Taking any 3 of these, we move on analyzing them:
