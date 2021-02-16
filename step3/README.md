@@ -11,10 +11,17 @@ cat file | cut -f 1 -d " " > gitlog_hash
 Now we run the script on this file containing the hashes. And ONLY grep down the warnings to another file.
 
 ```
-./scripts/checkpatch.pl --show-types --terse -g `cat gitlog_hash` > script_log
+cat gitlog_hash | while read line; do ./scripts/checkpatch.pl --show-types --terse -g $line >> script_log; done;
 cat script_log | grep "WARNING" > script_warn
 ```
 
 Taking any 3 of these, we move on analyzing them:
 
 ## WARNING analysis
+```
+cat script_warn | grep "COMMIT_LOG_LONG_LINE"
+cat script_warn | grep "COMMIT_MESSAGE"
+cat script_warn | grep "FILE_PATH_CHANGES:"
+cat script_warn | grep "EMBEDDED_FILENAME"
+```
+

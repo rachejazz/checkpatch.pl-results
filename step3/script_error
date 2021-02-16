@@ -1,0 +1,460 @@
+f40ddce88593482919761f74910f42f4b84c004b:27: ERROR:MISSING_SIGN_OFF: Missing Signed-off-by: line(s)
+3286222fc609dea27bd16ac02c55d3f1c3190063:50: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 32a6f409b693 ("mm, slub: remove runtime allocation order changes")'
+3286222fc609dea27bd16ac02c55d3f1c3190063:70: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 045ab8c9487b ("mm/slub: let number of online CPUs determine the slub page order")'
+d52db800846f66d98a4e14c39cf88a06bcd9985f:6: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'Commit c2aa8afc36fa ("selftests/vm: rename run_vmtests --> run_vmtests.sh")'
+793f49a87aae24e5bcf92ad98d764153fc936570:43: ERROR:SPACING: space prohibited before that ':' (ctx:WxW)
+256b92af784d5043eeb7d559b6d5963dcc2ecb10:9: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 20bf2b378729 ("x86/build: Disable CET instrumentation in the kernel")'
+3c55e94c0adea4a5389c4b80f6ae9927dd6a4501:11: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 41ea667227ba ("x86, sched: Calculate frequency invariance for AMD systems")'
+3c55e94c0adea4a5389c4b80f6ae9927dd6a4501:14: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 976df7e5730e ("x86, sched: Use midpoint of max_boost and max_P for frequency invariance on AMD EPYC")'
+92bf22614b21a2706f4993b278017e437f7785b3:25: ERROR:MISSING_SIGN_OFF: Missing Signed-off-by: line(s)
+767d1216bff82507c945e92fe719dff2083bb2f4:14: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 8c873e219970 ("netfilter: core: free hooks with call_rcu")'
+7f1b11ba3564a391169420d98162987a12d0795d:8: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 6d6501d912a9 ("tools/power/turbostat: Read energy_perf_bias from sysfs")'
+24321ac668e452a4942598533d267805f291fdc9:19: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 0138ba5783ae ("powerpc/64/signal: Balance return predictor stack in signal trampoline")'
+9ad22e165994ccb64d85b68499eaef97342c175b:9: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit d53d9bc0cf78 ("x86/debug: Change thread.debugreg6 to thread.virtual_dr6")'
+9ad22e165994ccb64d85b68499eaef97342c175b:13: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 6c0aca288e72 ("x86: Ignore trap bits on single step exceptions")'
+9ad22e165994ccb64d85b68499eaef97342c175b:17: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 6c0aca288e72 ("x86: Ignore trap bits on single step exceptions")'
+1048ba83fb1c00cd24172e23e8263972f6b5d9ac:25: ERROR:MISSING_SIGN_OFF: Missing Signed-off-by: line(s)
+4c457e8cb75eda91906a4f89fc39bde3f9a43922:39: ERROR:COMPLEX_MACRO: Macros with complex values should be enclosed in parentheses
+a9cbbb80e3e7dd38ceac166e0698f161862a18ae:18: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 9bb48c82aced ("tty: implement write_iter")'
+ba839b7598440a5d78550a115bac21b08d57cc32:91: ERROR:COMPLEX_MACRO: Macros with complex values should be enclosed in parentheses
+ba839b7598440a5d78550a115bac21b08d57cc32:93: ERROR:COMPLEX_MACRO: Macros with complex values should be enclosed in parentheses
+fd55b61ebd31449549e14c33574825d64de2b29b:6: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'Commit f844eb485eb0 ("drm/nouveau/kms/nv50-: use NVIDIA's headers for wndw image_set()")'
+fd55b61ebd31449549e14c33574825d64de2b29b:9: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit f844eb485eb0 ("drm/nouveau/kms/nv50-: use NVIDIA's headers for wndw image_set()")'
+3a7efd1ad269ccaf9c1423364d97c9661ba6dafa:6: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 84965ff8a84f ("io_uring: if we see flush on exit, cancel related tasks")'
+181f494888d5b178ffda41bed965f187d5e5c432:6: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 255cbecfe0c9 ("KVM: x86: allocate vcpu->arch.cpuid_entries dynamically")'
+8dc932d3e8afb65e12eba7495f046c83884c49bf:18: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 9011495c9466 ("dcssblk: don't set bd_block_size in ->open")'
+8dc932d3e8afb65e12eba7495f046c83884c49bf:21: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 5ff9f19231a0 ("block: simplify set_init_blocksize")'
+e23fe90dec286cd77e9059033aa640fc45603602:36: ERROR:SPACING: space required before the open parenthesis '('
+2ab38c17aac10bf55ab3efde4c4db3893d8691d2:11: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit e0ab1ec9fcd3 ("[PATCH] add .mailmap for proper git-shortlog output")'
+9b6164342e981d751e69f5a165dd596ffcdfd6fe:50: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 9f671e58159a ("security: Create "kernel hardening" config area")'
+3490e333bda0709a5a2c9b7ab9b0209bb16619d8:6: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit b70d154d6558 ("dt-bindings:iio:adc: convert adc.txt to yaml")'
+3490e333bda0709a5a2c9b7ab9b0209bb16619d8:8: ERROR:BAD_SIGN_OFF: Unrecognized email address: 'Documentation/devicetree/bindings/iio/adc/adc.yaml.'
+c5dde04b9059c91515d609a41e9c1a148ee4d850:7: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 27bb0e42855a ("dt-bindings: memory: mediatek: Convert SMI to DT schema")'
+c5dde04b9059c91515d609a41e9c1a148ee4d850:9: ERROR:BAD_SIGN_OFF: Unrecognized email address: 'Documentation/devicetree/bindings/memory-controllers/mediatek,smi-larb.yaml.'
+601bd38ccd25e831865dd8442e3491fc8ce9604d:7: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 9273cf7d3942 ("dt-bindings: display: mediatek: convert the dpi bindings to yaml")'
+601bd38ccd25e831865dd8442e3491fc8ce9604d:9: ERROR:BAD_SIGN_OFF: Unrecognized email address: 'Documentation/devicetree/bindings/display/mediatek/mediatek,dpi.yaml.'
+0bc92e7f0d9ab06afacff7e5b0e08b5ce8f3f32f:7: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 97198614f6c3 ("ASoC: audio-graph-card: switch to yaml base Documentation")'
+0bc92e7f0d9ab06afacff7e5b0e08b5ce8f3f32f:9: ERROR:BAD_SIGN_OFF: Unrecognized email address: 'Documentation/devicetree/bindings/sound/audio-graph-card.yaml.'
+9ad6d91f056b99dbe59a262810cb342519ea8d39:75: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit e747853cae3a ("btrfs: load free space cache asynchronously")'
+81b704d3e4674e09781d331df73d76675d5ad8cb:26: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 6d25be5782e4 ("sched/core, workqueues: Distangle worker accounting from rq lock")'
+36af2d5c4433fb40ee2af912c4ac0a30991aecfc:6: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'Commit 8765c5ba1949 ("ACPI / scan: Rework modalias creation when "compatible" is present")'
+6ee1d745b7c9fd573fba142a2efdad76a9f1cb04:25: ERROR:MISSING_SIGN_OFF: Missing Signed-off-by: line(s)
+acb35b177c71d3d39b9a3b9ea213d926235066e3:6: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit added5fce61e ("ARM: mxs_defconfig: add CONFIG_USB_PHY")'
+1cabe74f148f7b99d9f08274a62467f96c870f07:7: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 1e860048c53e ("gcc-plugins: simplify GCC plugin-dev capability test")'
+36c6e17bf16922935a5a0dd073d5b032d34aa73d:8: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 1cf12e08bc4d ("sched/hotplug: Consolidate task migration on CPU unplug")'
+14a71d509ac809dcf56d7e3ca376b15d17bd0ddd:6: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit eaa7995c529b ("regulator: core: avoid regulator_resolve_supply() race condition")'
+809b1e4945774c9ec5619a8f4e2189b7b3833c0c:7: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 644bda6f3460 ("dm table: fall back to getting device using name_to_dev_t()")'
+9d5ae6f3c50a6f718b6d4be3c7b0828966e01b05:8: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 2f713615ddd9 ("libceph: move msgr1 protocol implementation to its own file")'
+f1b0a8ea9f12b8ade0dbe40dd57e4ffa9a30ed93:12: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit b2d2440430c0 ("RDMA/rxe: Remove VLAN code leftovers from RXE")'
+f1b0a8ea9f12b8ade0dbe40dd57e4ffa9a30ed93:25: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit b2d2440430c0 ("RDMA/rxe: Remove VLAN code leftovers from RXE")'
+f1b0a8ea9f12b8ade0dbe40dd57e4ffa9a30ed93:26: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit b2d2440430c0 ("RDMA/rxe: Remove VLAN code leftovers from RXE")'
+bc895e8b2a64e502fbba72748d59618272052a8b:8: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 3f50f132d840 ("bpf: Verifier, do explicit ALU32 bounds tracking")'
+08685be7761d69914f08c3d6211c543a385a5b9c:37: ERROR:MULTISTATEMENT_MACRO_USE_DO_WHILE: Macros with multiple statements should be enclosed in a do - while loop
+08685be7761d69914f08c3d6211c543a385a5b9c:53: ERROR:MULTISTATEMENT_MACRO_USE_DO_WHILE: Macros with multiple statements should be enclosed in a do - while loop
+08685be7761d69914f08c3d6211c543a385a5b9c:68: ERROR:MULTISTATEMENT_MACRO_USE_DO_WHILE: Macros with multiple statements should be enclosed in a do - while loop
+08685be7761d69914f08c3d6211c543a385a5b9c:69: ERROR:SPACING: spaces required around that ':' (ctx:VxE)
+08685be7761d69914f08c3d6211c543a385a5b9c:70: ERROR:SPACING: space required after that ',' (ctx:VxV)
+08685be7761d69914f08c3d6211c543a385a5b9c:72: ERROR:SPACING: spaces required around that ':' (ctx:VxE)
+301a33d51880619d0c5a581b5a48d3a5248fa84b:9: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 84430d4232c3 ("bpf, verifier: avoid retpoline for map push/pop/peek operation")'
+2b73649cee65b8e33c75c66348cb1bfe0ff9d766:8: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 215a22ed31a1 ("ALSA: hda: Refactor codec PM to use direct-complete optimization")'
+0bab9cb2d980d7c075cffb9216155f7835237f98:8: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 320100a5ffe5 ("x86/entry: Remove the TRACE_IRQS cruft")'
+d502297008142645edf5c791af424ed321e5da84:23: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:23: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:23: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:23: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:23: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:23: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:23: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:23: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:31: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:31: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:31: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:31: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:31: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:31: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:31: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:31: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:31: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:31: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:31: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:40: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:40: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:40: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:40: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:40: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:40: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:40: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:40: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:40: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:40: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:40: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:49: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:49: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:49: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:49: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:49: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:49: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:49: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:49: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:49: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:49: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:49: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:58: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:58: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:58: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:58: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:58: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:58: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:58: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:58: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:58: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:58: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:58: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:67: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:67: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:67: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:67: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:67: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:67: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:67: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:67: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:67: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:67: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:67: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:76: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:76: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:76: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:76: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:76: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:76: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:76: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:76: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:76: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:76: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:76: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:85: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:85: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:85: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:85: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:85: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:85: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:85: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:85: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:85: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:85: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:85: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:94: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:94: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:94: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:94: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:94: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:94: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:94: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:94: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:94: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:94: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:94: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:103: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:103: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:103: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:103: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:103: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:103: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:103: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:103: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:103: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:103: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:103: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:129: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:129: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:129: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:129: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:129: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:131: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:131: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:131: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:131: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:131: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:131: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:131: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:134: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:134: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:134: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:134: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:134: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:134: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:134: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:134: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:134: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:138: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:138: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:138: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:138: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:138: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:138: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:138: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:138: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:138: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:138: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:138: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:143: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:143: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:143: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:143: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:143: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:143: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:143: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:143: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:143: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:143: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:143: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:143: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:143: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:244: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:244: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:244: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:244: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:244: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:244: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:246: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:246: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:246: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:246: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:246: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:246: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:246: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:246: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:249: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:249: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:249: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:249: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:249: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:249: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:249: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:249: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:249: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d502297008142645edf5c791af424ed321e5da84:249: ERROR:SPACING: space required after that ',' (ctx:VxV)
+18d3bff411c8d46d40537483bdc0b61b33ce0371:6: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit f3e3d9cc3525 ("btrfs: avoid possible signal interruption of btrfs_drop_snapshot() on relocation tree")'
+19c329f6808995b142b3966301f217c831e7cf31:25: ERROR:MISSING_SIGN_OFF: Missing Signed-off-by: line(s)
+fff7b5e6ee63c5d20406a131b260c619cdd24fd1:6: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 4df4cb9e99f8 ("x86/hyperv: Initialize clockevents earlier in CPU onlining")'
+a1bf23052bdfe30ec3c693cf32feb2d79114ac16:95: ERROR:SPACING: need consistent spacing around '+' (ctx:WxV)
+addbdff24293ef772a1b8e5d127b570e70f08cdc:9: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 3a176b94609a ("Revert "kbuild: avoid static_assert for genksyms"")'
+38c53947a7dcb6d295769830c9085b0409921ec9:9: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 647daca25d24 ("KVM: SVM: Add support for booting APs in an SEV-ES guest")'
+8ef23b6f6a79e6fa2a169081d2d76011fffa0482:217: ERROR:ASSIGN_IN_IF: do not use assignment in if condition
+8ef23b6f6a79e6fa2a169081d2d76011fffa0482:424: ERROR:ASSIGN_IN_IF: do not use assignment in if condition
+8ef23b6f6a79e6fa2a169081d2d76011fffa0482:581: ERROR:SPACING: space required after that ',' (ctx:VxO)
+8ef23b6f6a79e6fa2a169081d2d76011fffa0482:581: ERROR:SPACING: space required before that '-' (ctx:OxV)
+8ef23b6f6a79e6fa2a169081d2d76011fffa0482:581: ERROR:SPACING: space required after that ',' (ctx:VxV)
+8ef23b6f6a79e6fa2a169081d2d76011fffa0482:582: ERROR:SPACING: space required after that ',' (ctx:VxV)
+8ef23b6f6a79e6fa2a169081d2d76011fffa0482:582: ERROR:SPACING: space required after that ',' (ctx:VxV)
+8ef23b6f6a79e6fa2a169081d2d76011fffa0482:583: ERROR:SPACING: space required after that ',' (ctx:VxV)
+8ef23b6f6a79e6fa2a169081d2d76011fffa0482:583: ERROR:SPACING: space required after that ',' (ctx:VxV)
+8ef23b6f6a79e6fa2a169081d2d76011fffa0482:584: ERROR:SPACING: space required after that ',' (ctx:VxV)
+8ef23b6f6a79e6fa2a169081d2d76011fffa0482:584: ERROR:SPACING: space required after that ',' (ctx:VxV)
+8ef23b6f6a79e6fa2a169081d2d76011fffa0482:585: ERROR:SPACING: space required after that ',' (ctx:VxV)
+8ef23b6f6a79e6fa2a169081d2d76011fffa0482:585: ERROR:SPACING: space required after that ',' (ctx:VxV)
+8ef23b6f6a79e6fa2a169081d2d76011fffa0482:655: ERROR:TRAILING_STATEMENTS: trailing statements should be on next line
+8ef23b6f6a79e6fa2a169081d2d76011fffa0482:656: ERROR:TRAILING_STATEMENTS: trailing statements should be on next line
+8ef23b6f6a79e6fa2a169081d2d76011fffa0482:657: ERROR:TRAILING_STATEMENTS: trailing statements should be on next line
+8ef23b6f6a79e6fa2a169081d2d76011fffa0482:658: ERROR:TRAILING_STATEMENTS: trailing statements should be on next line
+c28efb15f9e51a96c6bce2b92c0f3a4da87db877:111: ERROR:SPACING: space prohibited after that open parenthesis '('
+5961c62d20753009408df4752e22991097386aa9:113: ERROR:SPACING: space prohibited before that close parenthesis ')'
+3b050680c84153d8e6f5ae3785922cd417f4b071:86: ERROR:TRAILING_STATEMENTS: trailing statements should be on next line
+3b050680c84153d8e6f5ae3785922cd417f4b071:94: ERROR:TRAILING_STATEMENTS: trailing statements should be on next line
+3b050680c84153d8e6f5ae3785922cd417f4b071:95: ERROR:TRAILING_STATEMENTS: trailing statements should be on next line
+3b050680c84153d8e6f5ae3785922cd417f4b071:102: ERROR:TRAILING_STATEMENTS: trailing statements should be on next line
+3b050680c84153d8e6f5ae3785922cd417f4b071:125: ERROR:TRAILING_STATEMENTS: trailing statements should be on next line
+4f3786e011940d83d7a9c365730936db96a0b233:14: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit c24b75e0f923 ("ipvs: move old_secure_tcp into struct netns_ipvs")'
+4f3786e011940d83d7a9c365730936db96a0b233:15: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 7980d2eabde8 ("ipvs: clear skb->tstamp in forwarding path")'
+4f3786e011940d83d7a9c365730936db96a0b233:17: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 7980d2eabde8 ("ipvs: clear skb->tstamp in forwarding path")'
+4f3786e011940d83d7a9c365730936db96a0b233:18: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 4bc3c8dc9f5f ("ipvs: fix possible memory leak in ip_vs_control_net_init")'
+0e4ed0b62b5a1f60b72ab7aaa29efd735d4cb6a6:13: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 138559b9f99d ("net/tls: Fix wrong record sn in async mode of device resync")'
+0e4ed0b62b5a1f60b72ab7aaa29efd735d4cb6a6:16: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit e91de6afa81c ("bpf: Fix running sk_skb program types with ktls")'
+0e4ed0b62b5a1f60b72ab7aaa29efd735d4cb6a6:17: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit e91de6afa81c ("bpf: Fix running sk_skb program types with ktls")'
+0e4ed0b62b5a1f60b72ab7aaa29efd735d4cb6a6:19: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit c16ee04c9b30 ("ulp: remove uid and user_visible members")'
+0e4ed0b62b5a1f60b72ab7aaa29efd735d4cb6a6:20: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit b8e202d1d1d0 ("net, sk_msg: Annotate lockless access to sk_prot on clone")'
+0e4ed0b62b5a1f60b72ab7aaa29efd735d4cb6a6:21: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit b8e202d1d1d0 ("net, sk_msg: Annotate lockless access to sk_prot on clone")'
+0e4ed0b62b5a1f60b72ab7aaa29efd735d4cb6a6:23: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 5c39f26e67c9 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/netdev/net")'
+0e4ed0b62b5a1f60b72ab7aaa29efd735d4cb6a6:24: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit d31c08007523 ("net/tls: make sure tls offload sets salt_size")'
+0e4ed0b62b5a1f60b72ab7aaa29efd735d4cb6a6:25: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit d31c08007523 ("net/tls: make sure tls offload sets salt_size")'
+c41efbf2ad56280762d19a531eb7edbf2e6a9f84:15: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 24dee0c7478d ("net: ena: fix napi handler misbehavior when the napi budget is zero")'
+c41efbf2ad56280762d19a531eb7edbf2e6a9f84:16: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 0e3a3f6dacf0 ("net: ena: support new LLQ acceleration mode")'
+c41efbf2ad56280762d19a531eb7edbf2e6a9f84:18: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 0e3a3f6dacf0 ("net: ena: support new LLQ acceleration mode")'
+c41efbf2ad56280762d19a531eb7edbf2e6a9f84:19: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 09323b3bca95 ("net: ena: set initial DMA width to avoid intel iommu issue")'
+c41efbf2ad56280762d19a531eb7edbf2e6a9f84:21: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 713865da3c62 ("net: ena: ethtool: Add new device statistics")'
+c41efbf2ad56280762d19a531eb7edbf2e6a9f84:23: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 470793a78ce3 ("net: ena: make ena rxfh support ETH_RSS_HASH_NO_CHANGE")'
+5e62d124f75aae0e96fd8a588ad31659a2468710:12: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 1b6687e31a2d ("vrf: Handle CONFIG_SYSCTL not set")'
+5e62d124f75aae0e96fd8a588ad31659a2468710:13: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 9125abe7b9cb ("vrf: handle CONFIG_IPV6 not set for vrf_add_mac_header_if_unset()")'
+09cd3f4683a901d572ad17f0564cc9e3e989f0f4:15: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit b7e4ba9a91df ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/pablo/nf")'
+09cd3f4683a901d572ad17f0564cc9e3e989f0f4:16: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit e0fecb289ad3 ("tcp: correctly handle increased zerocopy args struct size")'
+09cd3f4683a901d572ad17f0564cc9e3e989f0f4:17: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit e0fecb289ad3 ("tcp: correctly handle increased zerocopy args struct size")'
+09cd3f4683a901d572ad17f0564cc9e3e989f0f4:20: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit d5d8760b78d0 ("sit: correct IP protocol used in ipip6_err")'
+93089de91e85743942a5f804850d4f0846e5402b:14: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit ea973742140b ("net/atheros: Clean atheros code from driver version")'
+5b55299eed78538cc4746e50ee97103a1643249c:11: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit eaf4fac47807 ("net: stmmac: Do not accept invalid MTU values")'
+1e249cb5b7fc09ff216aa5a12f6c302e434e88f9:52: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 5afced3bf281 ("writeback: Avoid skipping inode writeback")'
+0d38fd8d252446d39050578ea32ed89b9adeb202:6: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 81437cc3b0d9 ("Merge series "dt-bindings: stm32: convert audio dfsdm to json-schema" from Olivier Moysan <olivier.moysan@st.com>:")'
+17ffc193cdc6dc7a613d00d8ad47fc1f801b9bf0:13: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'Commit 468dfca38b1a ("dm integrity: add a bitmap mode")'
+17ffc193cdc6dc7a613d00d8ad47fc1f801b9bf0:16: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'Commit 84597a44a9d8 ("dm integrity: add optional discard support")'
+17ffc193cdc6dc7a613d00d8ad47fc1f801b9bf0:19: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit d537858ac8aa ("dm integrity: fix excessive alignment of metadata runs")'
+fd2383093593b23f8814a879093b746e502fe3cf:6: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 5e4b7e82d497 ("clk: qcom: gcc-sdm845: Use floor ops for sdcc clks")'
+fd2383093593b23f8814a879093b746e502fe3cf:7: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 6d37a8d19283 ("clk: qcom: gcc-sc7180: Use floor ops for sdcc clks")'
+968d7764e35b2fa4aad36481690b297e2c497c99:39: ERROR:SPACING: space required after that ';' (ctx:VxV)
+518837e65068c385dddc0a87b3e577c8be7c13b1:11: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit d906d49fc5f4 ("Btrfs: send, fix file corruption due to incorrect cloning operations")'
+14ff8e1970c03831bf64cf098f56e6ba83349170:10: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 5297199a8bca ("btrfs: remove inode number cache feature")'
+7c53f6b671f4aba70ff15e1b05148b10d58c2837:25: ERROR:MISSING_SIGN_OFF: Missing Signed-off-by: line(s)
+c98e9daa59a611ff4e163689815f40380c912415:7: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit ce8866f0913f ("NFS: Attach supplementary error information to fs_context.")'
+f97844f9c518172f813b7ece18a9956b1f70c1bb:7: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 307eea32b202 ("dt-bindings: net: renesas,ravb: Add support for r8a774e1 SoC")'
+f97844f9c518172f813b7ece18a9956b1f70c1bb:9: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit d7adf6331189 ("dt-bindings: net: renesas,etheravb: Convert to json-schema")'
+d9d05217cb6990b9a56e13b56e7a1b71e2551f6c:36: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit b1b6b5a30dce ("kernel/io_uring: cancel io_uring before task works")'
+a91bd6223ecd46addc71ee6fcd432206d39365d2:24: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 3cffa06aeef7 ("printk/console: Allow to disable console output by using console="" or console=null")'
+e076ab2a2ca70a0270232067cd49f76cd92efe64:26: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 3d45f221ce62 ("btrfs: fix deadlock when cloning inline extent and low on free metadata space")'
+d0243bbd5dd3ebbd49dafa8b56bb911d971131d0:16: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit e0d072782c73 ("dma-mapping: introduce DMA range map, supplanting dma_pfn_offset")'
+e42ac777d661e878c3b9bac56df11e226cab3010:745: ERROR:OPEN_BRACE: that open brace { should be on the previous line
+52782d5b63725a6c4bf642557c83507430064110:6: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'Commit 16809ecdc1e8 ("KVM: SVM: Provide an updated VMRUN invocation for SEV-ES guests")'
+0ef597c3ac49a62e1a2c1c10f88dd76fde1e1636:6: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 196793946264 ("Compiler Attributes: remove CONFIG_ENABLE_MUST_CHECK")'
+0ef597c3ac49a62e1a2c1c10f88dd76fde1e1636:10: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 3337d5cfe5e0 ("configs: get rid of obsolete CONFIG_ENABLE_WARN_DEPRECATED")'
+3f7759e7b7585a0bffda06d4eddc6b0b850ef6c3:79: ERROR:GLOBAL_INITIALISERS: do not initialise globals to false
+47f4469970d8861bc06d2d4d45ac8200ff07c693:10: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit c15e1bdda436 ("device property: Fix the secondary firmware node handling in set_primary_fwnode()")'
+55b7ab1178cbf41f979ff83236d3321ad35ed2ad:13: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit cebb69754f37 ("rtnetlink: Fix memory(net_device) leak when ->newlink fails")'
+c2407cf7d22d0c0d94cf20342b3b8f06f1d904e7:10: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 073861ed77b6 ("mm: fix VM_BUG_ON(PageTail) and BUG_ON(PageWriteback)")'
+d1c5246e08eb64991001d97a3bd119c93edbc79a:8: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 28ee90fe6048 ("x86/mm: implement free pmd/pte page interfaces")'
+d1c5246e08eb64991001d97a3bd119c93edbc79a:14: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit c283610e44ec ("x86, mm: do not leak page->ptl for pmd page tables")'
+d1c5246e08eb64991001d97a3bd119c93edbc79a:19: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit b2b29d6d0119 ("mm: account PMD tables like PTE tables")'
+a0a6df9afcaf439a6b4c88a3b522e3d05fdef46f:8: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 41525f56e256 ("fs: refactor ksys_umount")'
+e71ba9452f0b5b2e8dc8aa5445198cd9214a6a62:25: ERROR:MISSING_SIGN_OFF: Missing Signed-off-by: line(s)
+04901aab40ea3779f6fc6383ef74d8e130e817bf:20: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'Commit 4bfc4714849d ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf")'
+3d5c5fdcee0f9a94deb0472e594706018b00aa31:8: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit b1a5039759cb ("ALSA: hda/hdmi: fix silent stream for first playback to DP")'
+355845b738e76445c8522802552146d96cb4afa7:24: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'Commit 4466bf82821b ("efi/apple-properties: use PROPERTY_ENTRY_U8_ARRAY_LEN")'
+181739822cf6f8f4e12b173913af2967a28906c0:13: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 766c6b63aa04 ("spi: fix client driver breakages when using GPIO descriptors")'
+111fe7186b29d172729db5e294875b9fc7a0ec1d:22: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 4ce072f1faf2 ("[PATCH] mm: fix a race condition under SMC + COW")'
+111fe7186b29d172729db5e294875b9fc7a0ec1d:59: ERROR:NO_AUTHOR_SIGN_OFF: Missing Signed-off-by: line by nominal patch author 'Nicholas Piggin <npiggin@gmail.com>'
+dc2da7b45ffe954a0090f5d0310ed7b0b37d2bd2:26: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 73a6e474cb37 ("mm: memmap_init: iterate over memblock regions rather that check each PFN")'
+7cf22a1c88c05ea3807f95b1edfebb729016ae52:6: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'Commit d8cbe8bfa7df ("tools/testing/selftests/vm: fix build error")'
+2ca408d9c749c32288bc28725f9f12ba30299e8f:11: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 121b32a58a3a ("x86/entry/32: Use IA32-specific wrappers for syscalls taking 64-bit arguments")'
+b4e70d8dd9ea6bd5d5fb3122586f652326ca09cd:12: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit ef516e8625dd ("netfilter: nf_tables: reintroduce the NFT_SET_CONCAT flag")'
+5c8fe583cce542aa0b84adc939ce85293de36e5e:27: ERROR:MISSING_SIGN_OFF: Missing Signed-off-by: line(s)
+b71df82d05b7a38f38c4b1109c57b209b8ed43ff:8: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit d1949b93c605 ("KVM: SVM: Add support for CR8 write traps for an SEV-ES guest")'
+b71df82d05b7a38f38c4b1109c57b209b8ed43ff:9: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 5b51cb13160a ("KVM: SVM: Add support for CR4 write traps for an SEV-ES guest")'
+b71df82d05b7a38f38c4b1109c57b209b8ed43ff:10: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit f27ad38aac23 ("KVM: SVM: Add support for CR0 write traps for an SEV-ES guest")'
+b71df82d05b7a38f38c4b1109c57b209b8ed43ff:11: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 2985afbcdbb1 ("KVM: SVM: Add support for EFER write traps for an SEV-ES guest")'
+b71df82d05b7a38f38c4b1109c57b209b8ed43ff:12: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 291bd20d5d88 ("KVM: SVM: Add initial support for a VMGEXIT VMEXIT")'
+9880e71cbaa8a0e826d8f144704301476b2d6cf9:8: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 8d14797b53f0 ("KVM: arm64: Move 'struct kvm_arch_memory_slot' out of uapi/")'
+cd97448db80e0238a819dc6b733da6ec0173cadd:9: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit bf0cd88ce363 ("KVM: x86: emulate wait-for-SIPI and SIPI-VMExit")'
+288807fc3a5f19ed77cb8c25342323bbe58a75a1:9: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit fb04a1eddb1a ("KVM: X86: Implement ring-based dirty memory tracking")'
+288807fc3a5f19ed77cb8c25342323bbe58a75a1:20: ERROR:DIFF_IN_COMMIT_MSG: Avoid using diff content in the commit message - patch(1) might not work
+fde668244d1d8d490b5b9daf53fe4f92a6751773:19: ERROR:DIFF_IN_COMMIT_MSG: Avoid using diff content in the commit message - patch(1) might not work
+7f3905f00a2025591a6883ee6880f928029b4d96:8: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 69372cf01290 ("x86/cpu: Add VM page flush MSR availablility as a CPUID feature")'
+7f3905f00a2025591a6883ee6880f928029b4d96:9: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit e1b35da5e624 ("x86: Enumerate AVX512 FP16 CPUID feature flag")'
+7f3905f00a2025591a6883ee6880f928029b4d96:41: ERROR:SPACING: space prohibited after that open parenthesis '('
+6e5192143ab571dbefb584edf900565098bdfd23:8: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit b0a0c2615f6f ("epoll: wire up syscall epoll_pwait2")'
+11b844b0b7c7c3dc8e8f4d0bbaad5e798351862c:7: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 20b6cc34ea74 ("bpf: Avoid hashtab deadlock with map_locked")'
+462fbeb1fcfcd35e453eeaa80d6d3d26464269fd:37: ERROR:SPACING: spaces required around that '=' (ctx:VxW)
+7e90285716518d810857a1d362983d99da9bbf66:22: ERROR:BAD_SIGN_OFF: Unrecognized email address: 'states that the patch was co-created by multiple developers;'
+7e90285716518d810857a1d362983d99da9bbf66:26: ERROR:BAD_SIGN_OFF: Unrecognized email address: 'denotes authorship, every Co-developed-by: must be immediately'
+d5c243989fb0cb03c74d7340daca3b819f706ee7:43: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d5c243989fb0cb03c74d7340daca3b819f706ee7:52: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d5c243989fb0cb03c74d7340daca3b819f706ee7:53: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d5c243989fb0cb03c74d7340daca3b819f706ee7:57: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d5c243989fb0cb03c74d7340daca3b819f706ee7:58: ERROR:SPACING: need consistent spacing around '-' (ctx:VxW)
+d5c243989fb0cb03c74d7340daca3b819f706ee7:61: ERROR:SPACING: space required after that ',' (ctx:VxV)
+d5c243989fb0cb03c74d7340daca3b819f706ee7:62: ERROR:SPACING: space required after that ',' (ctx:VxV)
+10fce53c0ef8f6e79115c3d9e0d7ea1338c3fa37:19: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 7a1be318f579 ("ARM: 9012/1: move device tree mapping out of linear region")'
+b36f835b636908e4122f2e17310b1dbc380a3b19:12: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit cc8a51ca6f05 ("kbuild: always create directories of targets")'
+e59d3c64cba69b57263dff1d62838bc6a819ae37:14: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit c5a282e9635e ("fs/epoll: reduce the scope of wq lock in epoll_wait()")'
+2efdaf7660c408d57721cc6dacb0167f866cb451:81: ERROR:ASSIGN_IN_IF: do not use assignment in if condition
+289caf5d8f6c61c6d2b7fd752a7f483cd153f182:24: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit abc610e01c66 ("fs/epoll: avoid barrier after an epoll_wait(2) timeout")'
+1a5514cbb09aaf694d26ef26fd6da5c5d495cc22:24: ERROR:COMPLEX_MACRO: Macros with complex values should be enclosed in parentheses
+269ac9389db4854f7b05c4749ff051763e7578d3:42: ERROR:COMPLEX_MACRO: Macros with complex values should be enclosed in parentheses
+4ba50cd3355d742c8befbfe38dcbe559f2b0f758:275: ERROR:COMPLEX_MACRO: Macros with complex values should be enclosed in parentheses
+99f0b55ea6c3a2ed29776ca0dd549d523ae8d6d3:194: ERROR:COMPLEX_MACRO: Macros with complex values should be enclosed in parentheses
+99f0b55ea6c3a2ed29776ca0dd549d523ae8d6d3:203: ERROR:COMPLEX_MACRO: Macros with complex values should be enclosed in parentheses
+f93c789a3e245707e3eddcaab5c2b7c62615692d:8: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit e7b6385b01d8 ("x86/cpufeatures: Add Intel SGX hardware bits")'
+f93c789a3e245707e3eddcaab5c2b7c62615692d:42: ERROR:SPACING: need consistent spacing around '+' (ctx:VxW)
+f93c789a3e245707e3eddcaab5c2b7c62615692d:42: ERROR:SPACING: space prohibited after that open parenthesis '('
+d6dbfceec5dd41becbe8c47c402240925d31036a:9: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 1446e1df9eb1 ("kernel: Implement selective syscall userspace redirection")'
+d6dbfceec5dd41becbe8c47c402240925d31036a:19: ERROR:DIFF_IN_COMMIT_MSG: Avoid using diff content in the commit message - patch(1) might not work
+4a443a51776ca9847942523cf987a330894d3a31:9: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 3ceb6543e9cf ("fscrypt: remove kernel-internal constants from UAPI header")'
+7ddcdea5b54492f54700f427f58690cf1e187e5e:9: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit a85cbe6159ff ("uapi: move constants from <linux/kernel.h> to <linux/const.h>")'
+e9bde94f1eb53c5721ba8e477dee837632fedebe:9: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit d205e0f1426e ("x86/{cpufeatures,msr}: Add Intel SGX Launch Control hardware bits")'
+e9bde94f1eb53c5721ba8e477dee837632fedebe:10: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit e7b6385b01d8 ("x86/cpufeatures: Add Intel SGX hardware bits")'
+e9bde94f1eb53c5721ba8e477dee837632fedebe:11: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 43756a298928 ("powercap: Add AMD Fam17h RAPL support")'
+e9bde94f1eb53c5721ba8e477dee837632fedebe:12: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 298ed2b31f55 ("x86/msr-index: sort AMD RAPL MSRs by address")'
+e9bde94f1eb53c5721ba8e477dee837632fedebe:13: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 68299a42f842 ("x86/mce: Enable additional error logging on certain Intel CPUs")'
+e9bde94f1eb53c5721ba8e477dee837632fedebe:23: ERROR:DIFF_IN_COMMIT_MSG: Avoid using diff content in the commit message - patch(1) might not work
+eb2842da77e1f7a3c46033f930524ab76dffe67a:10: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit b713c195d593 ("net: provide __sys_shutdown_sock() that takes a socket")'
+23cd9543a52b96ac75d666eee3576b47f1901248:8: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit caabdd0f59a9 ("ctype.h: remove duplicate isdigit() helper")'
+4a85a6a3320b4a622315d2e0ea91a1d2b013bce4:18: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit da1661b93bf4 ("SUNRPC: Teach server to use xprt_sock_sendmsg for socket sends")'
+91ea62d58bd661827c328a2c6c02a87fa4aae88b:8: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 1a63dcd8765b ("softirq: Reorder trace_softirqs_on to prevent lockdep splat")'
+9a664971569daf68254928149f580b4f5856d274:89: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 878f2d2cb355 ("Btrfs: fix max dir item size calculation")'
+1c28a05d1a972594164efc7fcffda416c5d6ab02:8: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 72d1249e2ffd ("uapi: fix statx attribute value overlap for DAX & MOUNT_ROOT")'
+4262f8c3efa1e79bd5950437a3eea58eeb4c1c70:9: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 14dc3983b5df ("kbuild: avoid static_assert for genksyms")'
+be335ec28efa89d6bff8f4c6ce8daba88acf2b1a:78: ERROR:MULTISTATEMENT_MACRO_USE_DO_WHILE: Macros starting with if should be enclosed by a do - while loop to avoid possible if/else logic defects
+4513c719c6f1ccf0c362c8dcef1f9b476f8f5c9c:49: ERROR:OPEN_BRACE: that open brace { should be on the previous line
+456ef4c11c06f0b8c53acaf796d77d2033f079f2:48: ERROR:CODE_INDENT: code indent should use tabs where possible
+bf53fc6b5f415cddc7118091cb8fd6a211b2320d:33: ERROR:SPACING: need consistent spacing around '*' (ctx:WxV)
+4bc4a912534a72f1c96f483448f0be16e5a48063:30: ERROR:SPACING: space required after that close brace '}'
+03813d9b7d4368d4a8c9bb8f5a2a1e23dac8f1b5:78: ERROR:SPACING: space prohibited after that open parenthesis '('
+03813d9b7d4368d4a8c9bb8f5a2a1e23dac8f1b5:78: ERROR:SPACING: space prohibited before that close parenthesis ')'
+03813d9b7d4368d4a8c9bb8f5a2a1e23dac8f1b5:79: ERROR:SPACING: space prohibited before that close parenthesis ')'
+03813d9b7d4368d4a8c9bb8f5a2a1e23dac8f1b5:80: ERROR:SPACING: space prohibited before that close parenthesis ')'
+81e7eb5bf08f36d34495a5898f6ef3fec05d9776:10: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit fb01a2932e81 ("blk-mq: add new API of blk_mq_hctx_set_fq_lock_class")'
+c1bea0a840ac75dca19bc6aa05575a33eb9fd058:13: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 01b0f0eae081 ("powerpc/64s: Trim offlined CPUs from mm_cpumasks")'
+870d16757ba8918c3f8cac162b9ca7669556dbab:11: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit b5a5a01d8e9a ("arm64: uaccess: remove addr_limit_user_check()")'
+870d16757ba8918c3f8cac162b9ca7669556dbab:12: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 192caabd4dd9 ("arm64: add support for TIF_NOTIFY_SIGNAL")'
+870d16757ba8918c3f8cac162b9ca7669556dbab:16: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 005b2a9dc819 ("Merge tag 'tif-task_work.arch-2020-12-14' of git://git.kernel.dk/linux-block")'
+44f6a7c0755d8dd453c70557e11687bb080a6f21:12: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit e81e07244325 ("objtool: Support Clang non-section symbols in ORC generation")'
+ca4a9241cc5e718de86a34afd41972869546a5e3:7: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 9a56493f6942 ("uts: Use generic ns_common::count")'
+831242ab8dffab4cf2f89c597d5902ac86caeefe:18: ERROR:BAD_SIGN_OFF: Unrecognized email address: '42'
+831242ab8dffab4cf2f89c597d5902ac86caeefe:19: ERROR:BAD_SIGN_OFF: Unrecognized email address: '25'
+831242ab8dffab4cf2f89c597d5902ac86caeefe:20: ERROR:BAD_SIGN_OFF: Unrecognized email address: '6'
+831242ab8dffab4cf2f89c597d5902ac86caeefe:21: ERROR:BAD_SIGN_OFF: Unrecognized email address: '4'
+831242ab8dffab4cf2f89c597d5902ac86caeefe:22: ERROR:BAD_SIGN_OFF: Unrecognized email address: '4'
+831242ab8dffab4cf2f89c597d5902ac86caeefe:23: ERROR:BAD_SIGN_OFF: Unrecognized email address: '4'
+831242ab8dffab4cf2f89c597d5902ac86caeefe:50: ERROR:BAD_SIGN_OFF: Unrecognized email address: ''
+7580c5b9b464f8936be850ef278927671338bbf2:13: ERROR:GERRIT_CHANGE_ID: Remove Gerrit Change-Id's before submitting upstream
+339f29d91acf3f49bcf919f0e11437438f58559a:7: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 33def8498fdd ("treewide: Convert macro and uses of __section(foo) to __section("foo")")'
+6a39e62abbafd1d58d1722f40c7d26ef379c6a2f:84: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 6974f0c4555e ("include/linux/string.h: add the option of fortified string.h functions")'
+7546861a8c55f1d704a6cfd699b33a9e2dd8c021:79: ERROR:SPACING: space prohibited before that ',' (ctx:WxW)
+7546861a8c55f1d704a6cfd699b33a9e2dd8c021:79: ERROR:SPACING: space prohibited before that ',' (ctx:WxW)
+7546861a8c55f1d704a6cfd699b33a9e2dd8c021:79: ERROR:SPACING: space prohibited before that ',' (ctx:WxW)
+7546861a8c55f1d704a6cfd699b33a9e2dd8c021:79: ERROR:SPACING: space prohibited before that ',' (ctx:WxW)
+7546861a8c55f1d704a6cfd699b33a9e2dd8c021:79: ERROR:SPACING: space prohibited before that ',' (ctx:WxW)
+7546861a8c55f1d704a6cfd699b33a9e2dd8c021:79: ERROR:SPACING: space prohibited before that ',' (ctx:WxE)
+7546861a8c55f1d704a6cfd699b33a9e2dd8c021:80: ERROR:SPACING: space prohibited before that ',' (ctx:WxW)
+7546861a8c55f1d704a6cfd699b33a9e2dd8c021:80: ERROR:SPACING: space prohibited before that ',' (ctx:WxW)
+aa6159ab99a9ab5df835b4750b66cf132a5aa292:395: ERROR:SPACING: space required after that ',' (ctx:VxV)
+aa6159ab99a9ab5df835b4750b66cf132a5aa292:397: ERROR:SPACING: space required after that ',' (ctx:VxV)
+aa6159ab99a9ab5df835b4750b66cf132a5aa292:397: ERROR:SPACING: space required after that ',' (ctx:VxV)
+aa6159ab99a9ab5df835b4750b66cf132a5aa292:488: ERROR:SPACING: spaces required around that '<' (ctx:VxV)
+aa6159ab99a9ab5df835b4750b66cf132a5aa292:488: ERROR:SPACING: spaces required around that '?' (ctx:VxO)
+aa6159ab99a9ab5df835b4750b66cf132a5aa292:488: ERROR:SPACING: space required before that '-' (ctx:OxV)
+f920e413ff9c33c297c0bde7cc5fe8cd736112e2:12: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 23b68395c7c7 ("mm/mmu_notifiers: add a lockdep map for invalidate_range_start/end")'
+f920e413ff9c33c297c0bde7cc5fe8cd736112e2:40: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 66204f1d2d1b ("mm/mmu_notifiers: prime lockdep")'
+a7cb874bfff785d39de6cc847673539cb3540821:10: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 9855609bde03 ("mm: memcg/slab: use a single set of kmem_caches for all accounted allocations")'
+045ab8c9487ba099eade6578621e2af4a0d5ba0c:24: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 32a6f409b693 ("mm, slub: remove runtime allocation order changes")'
+f630c7c6f10546ebff15c3a856e7949feb7a2372:71: ERROR:SPACING: space prohibited after that open parenthesis '('
+f630c7c6f10546ebff15c3a856e7949feb7a2372:71: ERROR:SPACING: space prohibited before that close parenthesis ')'
+f630c7c6f10546ebff15c3a856e7949feb7a2372:72: ERROR:SPACING: space prohibited after that open parenthesis '('
+f630c7c6f10546ebff15c3a856e7949feb7a2372:73: ERROR:SPACING: space prohibited after that open parenthesis '('
+f630c7c6f10546ebff15c3a856e7949feb7a2372:99: ERROR:SPACING: space prohibited after that open parenthesis '('
+f630c7c6f10546ebff15c3a856e7949feb7a2372:99: ERROR:SPACING: space prohibited before that close parenthesis ')'
+f630c7c6f10546ebff15c3a856e7949feb7a2372:100: ERROR:SPACING: space prohibited after that open parenthesis '('
+f630c7c6f10546ebff15c3a856e7949feb7a2372:125: ERROR:SPACING: space prohibited after that open parenthesis '('
+f630c7c6f10546ebff15c3a856e7949feb7a2372:125: ERROR:SPACING: space prohibited before that close parenthesis ')'
+f630c7c6f10546ebff15c3a856e7949feb7a2372:126: ERROR:SPACING: space prohibited after that open parenthesis '('
+e10777a67963163055f9ca43292cb21ff52967d2:49: ERROR:TRAILING_WHITESPACE: trailing whitespace
+88f0a9d066443118261adf7e049781476f09dac1:56: ERROR:SPACING: space prohibited before that ',' (ctx:WxW)
+ae7927023243dcc7389b2d59b16c09cbbeaecc36:9: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 2558aacff858 ("sched/hotplug: Ensure only per-cpu kthreads run during hotplug")'
+a268e0f2455c32653140775662b40c2b1f1b2efa:26: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'Commit 36096f2f4fa0 ("packet: Fix error path in packet_init")'
+1791ebd131c46539b024c0f2ebf12b6c88a265b9:17: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 44b4c4450f8d ("powerpc/64s: Mark the kuap/kuep functions non __init")'
+cd1a677cad994021b19665ed476aea63f5d54f31:479: ERROR:SPACING: space prohibited after that open parenthesis '('
+a5cbd5fc22d5043a8a76e15d75d031fe24d1f69c:13: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 23c625ce3065 ("libceph: assume argonaut on the server side")'
+a5cbd5fc22d5043a8a76e15d75d031fe24d1f69c:109: ERROR:SPACING: space prohibited after that open parenthesis '('
+90b6561a0525d0888d5d705e343bacaaacd3c021:12: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 6384bb8b8e88 ("libceph: kill bad_proto ceph connection op")'
+90b6561a0525d0888d5d705e343bacaaacd3c021:13: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 0fa6ebc600bc ("libceph: fix protocol feature mismatch failure path")'
+0941e3b0653fef1ea68287f6a948c6c68a45c9ba:8: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 6ffeb1c3f822 ("md: change mddev 'chunk_sectors' from int to unsigned")'
+69372cf01290b9587d2cee8fbe161d75d55c3adc:34: ERROR:SPACING: space prohibited after that open parenthesis '('
+2e33f831fccd2df83836a8e255755f85d364aaeb:58: ERROR:GLOBAL_INITIALISERS: do not initialise globals to 0
+2d2f2d7322ff43e0fe92bf8cccdc0b09449bf2e1:101: ERROR:COMPLEX_MACRO: Macros with complex values should be enclosed in parentheses
+2d2f2d7322ff43e0fe92bf8cccdc0b09449bf2e1:102: ERROR:COMPLEX_MACRO: Macros with complex values should be enclosed in parentheses
+b8d6255548ff9a94f1fed44b01da9602861cf84a:9: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit dd8088d5a896 ("PM: runtime: Add pm_runtime_resume_and_get to deal with usage counter")'
