@@ -1,0 +1,85 @@
+060bb115c2d664f04db9c7613a104dfaef3fdd98:18: WARNING:COMMIT_LOG_LONG_LINE: Possible unwrapped commit description (prefer a maximum 75 chars per line)
+060bb115c2d664f04db9c7613a104dfaef3fdd98:18: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit e87666b52f00 ("drm/i915/shrinker: Hook up vmap allocation failure notifier")'
+total: 1 errors, 1 warnings, 32 lines checked
+6cb304b31293844461437fe76dc308aaffe31dc8:10: WARNING:COMMIT_LOG_LONG_LINE: Possible unwrapped commit description (prefer a maximum 75 chars per line)
+total: 0 errors, 1 warnings, 8 lines checked
+233c1ae3c83f21046c6c4083da904163ece8f110:24: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit d8f505311717 ("drm/i915/icl: Forcibly evict stale csb entries")'
+233c1ae3c83f21046c6c4083da904163ece8f110:57: ERROR:ASSIGN_IN_IF: do not use assignment in if condition
+total: 2 errors, 0 warnings, 33 lines checked
+884c40741234c12533caf344997c895ee1c37d60:12: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit d8f505311717 ("drm/i915/icl: Forcibly evict stale csb entries")'
+884c40741234c12533caf344997c895ee1c37d60:87: ERROR:ASSIGN_IN_IF: do not use assignment in if condition
+total: 2 errors, 0 warnings, 123 lines checked
+4ff64bcfe2b11be52a3fceb6b5c23d7be7916362:48: ERROR:ASSIGN_IN_IF: do not use assignment in if condition
+total: 1 errors, 0 warnings, 69 lines checked
+f2acf74068b0ac56289ecdd9739e9aaee1a46d21:43: WARNING:MEMORY_BARRIER: memory barrier without comment
+total: 0 errors, 1 warnings, 58 lines checked
+29545e5cd27d71640249a995ee84a8376c78a338:7: WARNING:UNKNOWN_COMMIT_ID: Unknown commit id 'e21fecdcde40', maybe rebased or not pulled?
+total: 0 errors, 1 warnings, 28 lines checked
+4d658cb7789e8cc9198c0a62b8415f0c85021ab0:31: WARNING:SPACE_BEFORE_TAB: please, no space before tabs
+4d658cb7789e8cc9198c0a62b8415f0c85021ab0:32: WARNING:SPACE_BEFORE_TAB: please, no space before tabs
+total: 0 errors, 2 warnings, 17 lines checked
+4127a6204970b3d7cb140117472eb3dd99bd1a0d:11: WARNING:COMMIT_LOG_LONG_LINE: Possible unwrapped commit description (prefer a maximum 75 chars per line)
+total: 0 errors, 1 warnings, 56 lines checked
+9e9f605fb5af8ae350d59de3c2a54422cb2d9301:73: WARNING:FROM_SIGN_OFF_MISMATCH: From:/Signed-off-by: email address mismatch: 'From: Daniel Vetter <daniel.vetter@ffwll.ch>' != 'Signed-off-by: Daniel Vetter <daniel.vetter@intel.com>'
+total: 0 errors, 1 warnings, 25 lines checked
+bff88b1c8ffddf32da75a1f7e8d10c93aaa26131:20: WARNING:BAD_SIGN_OFF: Unexpected content after email: 'Anshuman Gupta <anshuman.gupta@intel.com> [v3]', should be: 'Anshuman Gupta <anshuman.gupta@intel.com> (v3)'
+total: 0 errors, 1 warnings, 39 lines checked
+deb0814b43f370a448a498409d949e38c9d8f02e:95: WARNING:UNSPECIFIED_INT: Prefer 'unsigned int' to bare use of 'unsigned'
+total: 0 errors, 1 warnings, 86 lines checked
+b254557cb244e2c18e59ee1cc2293128c52d2473:47: WARNING:UNSPECIFIED_INT: Prefer 'unsigned int' to bare use of 'unsigned'
+total: 0 errors, 1 warnings, 85 lines checked
+6236d953f7aca13403a1fada9d1dd12978cf93e8:12: WARNING:BAD_SIGN_OFF: Unexpected content after email: 'Christian König <christian.koenig@amd.com>.', should be: '"Christian König" <christian.koenig@amd.com>'
+total: 0 errors, 1 warnings, 40 lines checked
+4eb4d99dfe3018d86f4529112aa7082f43b6996a:91: WARNING:FILE_PATH_CHANGES: added, moved or deleted file(s), does MAINTAINERS need updating?
+total: 0 errors, 1 warnings, 155 lines checked
+e0218dca5787c851b403fcbc33cdfec795446fca:9: WARNING:TYPO_SPELLING: 'implemntation' may be misspelled - perhaps 'implementation'?
+e0218dca5787c851b403fcbc33cdfec795446fca:81: WARNING:CONFIG_DESCRIPTION: please write a paragraph that describes the config symbol fully
+e0218dca5787c851b403fcbc33cdfec795446fca:101: WARNING:FILE_PATH_CHANGES: added, moved or deleted file(s), does MAINTAINERS need updating?
+total: 0 errors, 3 warnings, 150 lines checked
+fe100b382c1c052b63c14091fd8bb3fe932453ae:28: WARNING:LONG_LINE: line length of 102 exceeds 100 columns
+fe100b382c1c052b63c14091fd8bb3fe932453ae:44: WARNING:LONG_LINE: line length of 102 exceeds 100 columns
+fe100b382c1c052b63c14091fd8bb3fe932453ae:60: WARNING:LONG_LINE: line length of 102 exceeds 100 columns
+total: 0 errors, 3 warnings, 33 lines checked
+44ddc4de87a54b32ead77d3ec67f0bf93d8c0055:39: WARNING:UNDOCUMENTED_DT_STRING: DT compatible string "aspeed,ast2600-lpc-snoop" appears un-documented -- check ./Documentation/devicetree/bindings/
+total: 0 errors, 1 warnings, 15 lines checked
+552f9d60f6cc5bc53007b0d82c1d0696fcf51a33:103: WARNING:AVOID_EXTERNS: externs should be avoided in .c files
+552f9d60f6cc5bc53007b0d82c1d0696fcf51a33:104: WARNING:AVOID_EXTERNS: externs should be avoided in .c files
+552f9d60f6cc5bc53007b0d82c1d0696fcf51a33:106: WARNING:AVOID_EXTERNS: externs should be avoided in .c files
+total: 0 errors, 3 warnings, 118 lines checked
+d693def4fd1c23f1ca5aed1afb9993b3a2069ad2:313: WARNING:ENOSYS: ENOSYS means 'invalid syscall nr' and nothing else
+total: 0 errors, 1 warnings, 376 lines checked
+bbab2be7e514268e4d90ee6497f53243bb61d51c:32: WARNING:UNSPECIFIED_INT: Prefer 'unsigned int' to bare use of 'unsigned'
+total: 0 errors, 1 warnings, 48 lines checked
+a5cafb906b48573cb87a16b12625198c302e3452:23: WARNING:UNSPECIFIED_INT: Prefer 'unsigned int' to bare use of 'unsigned'
+total: 0 errors, 1 warnings, 50 lines checked
+35faeb7de9ef83da510a048f2016061f1e31d5fc:9: WARNING:UNKNOWN_COMMIT_ID: Unknown commit id '99f0a640d464', maybe rebased or not pulled?
+total: 0 errors, 1 warnings, 18 lines checked
+badef44deff1fae8d21c5c1cfc4dde95fb5bf993:16: WARNING:COMMIT_LOG_LONG_LINE: Possible unwrapped commit description (prefer a maximum 75 chars per line)
+total: 0 errors, 1 warnings, 40 lines checked
+d3ef581afa5e6a65cc3a40de2e62901f17b8cebc:130: WARNING:CONST_STRUCT: struct vm_operations_struct should normally be const
+total: 0 errors, 1 warnings, 116 lines checked
+7a991cd3e3da9a56d5616b62d425db000a3242f2:11: WARNING:REPEATED_WORD: Possible repeated word: 'the'
+total: 0 errors, 1 warnings, 26 lines checked
+6815cfe602d03df1b3029081e1c4fb81a224d9fb:64: WARNING:BRACES: braces {} are not necessary for single statement blocks
+total: 0 errors, 1 warnings, 38 lines checked
+16845c5d540929d2f4dc845f11fbbb238e69170a:280: WARNING:FILE_PATH_CHANGES: added, moved or deleted file(s), does MAINTAINERS need updating?
+total: 0 errors, 1 warnings, 376 lines checked
+01fd30da0474d5528d96a154cb50ce3b0352fd19:56: WARNING:AVOID_BUG: Avoid crashing the kernel - try using WARN_ON & recovery code rather than BUG() or BUG_ON()
+01fd30da0474d5528d96a154cb50ce3b0352fd19:62: WARNING:AVOID_BUG: Avoid crashing the kernel - try using WARN_ON & recovery code rather than BUG() or BUG_ON()
+01fd30da0474d5528d96a154cb50ce3b0352fd19:80: WARNING:AVOID_BUG: Avoid crashing the kernel - try using WARN_ON & recovery code rather than BUG() or BUG_ON()
+01fd30da0474d5528d96a154cb50ce3b0352fd19:83: WARNING:AVOID_BUG: Avoid crashing the kernel - try using WARN_ON & recovery code rather than BUG() or BUG_ON()
+01fd30da0474d5528d96a154cb50ce3b0352fd19:95: WARNING:FILE_PATH_CHANGES: added, moved or deleted file(s), does MAINTAINERS need updating?
+total: 0 errors, 5 warnings, 138 lines checked
+20e76f1a70596590dec32a5d1f598fba04859526:70: WARNING:AVOID_BUG: Avoid crashing the kernel - try using WARN_ON & recovery code rather than BUG() or BUG_ON()
+total: 0 errors, 1 warnings, 287 lines checked
+cbdbdd8ab22b4bf2571f313ea627cfc3a04cb02f:37: WARNING:FROM_SIGN_OFF_MISMATCH: From:/Signed-off-by: email address mismatch: 'From: Daniel Vetter <daniel.vetter@ffwll.ch>' != 'Signed-off-by: Daniel Vetter <daniel.vetter@intel.com>'
+total: 0 errors, 1 warnings, 9 lines checked
+ba30075d8d84a0e19bffc5040e989f6ad1a89fd4:68: WARNING:UNNECESSARY_ELSE: else is not generally useful after a break or return
+total: 0 errors, 1 warnings, 70 lines checked
+4669f5c2b7edb5666d1fcb9be13bdda2a5aec066:78: WARNING:UNNECESSARY_ELSE: else is not generally useful after a break or return
+total: 0 errors, 1 warnings, 100 lines checked
+bd1fbef7bd752d127996445da8b0453c93fa25dc:45: WARNING:FROM_SIGN_OFF_MISMATCH: From:/Signed-off-by: email address mismatch: 'From: Daniel Vetter <daniel.vetter@ffwll.ch>' != 'Signed-off-by: Daniel Vetter <daniel.vetter@intel.com>'
+total: 0 errors, 1 warnings, 16 lines checked
+dac4ec775aa1cae4ac6d37ae135c862636541e78:12: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 1644127f83bc ("drm/bridge: tc358764: add drm_panel_bridge support")'
+dac4ec775aa1cae4ac6d37ae135c862636541e78:13: ERROR:GIT_COMMIT_ID: Please use git commit description style 'commit <12+ chars of sha1> ("<title line>")' - ie: 'commit 385ca38da29c ("drm/bridge: tc358764: drop drm_connector_(un)register")'
+total: 2 errors, 0 warnings, 169 lines checked
